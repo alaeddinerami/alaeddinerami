@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img src="snake/snake.yml" alt="Snake animation" />
+<img src="snake/github-snake.svg" alt="Snake animation" />
 
 ###
 
