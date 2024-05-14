@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="snake/images/photo.jpg"  />
+  <img height="500" src="snake/images/photo.jpg"  />
 </div>
 
 ###
