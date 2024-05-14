@@ -1,9 +1,10 @@
-<h2 align="center">Hi 👋, I'm Alaeddine rami</h2>
+
 
 ###
 
-<div align="center">
-  <img height="500" src="snake/images/photo.jpg"  />
+<div style="display: 'flex'; justify-content:space-evenly" align="center">
+  <h2 align="center">Hi 👋, I'm Alaeddine rami</h2>
+  <img height="200" src="snake/images/photo.jpg"  />
 </div>
 
 ###
