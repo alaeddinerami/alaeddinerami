@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://copilot.microsoft.com/images/create/aladdin-and-genie-coding/1-6643b62a03d549bd802b607f7eb7880b?id=%2fAzFUOuz8vqrnvR5us6AaA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.G4b5MxxJU6dUx4zoQxrJ&FORM=SYDBIC"  />
+  <img height="200" src="images/photo.jpg"  />
 </div>
 
 ###
