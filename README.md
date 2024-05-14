@@ -2,7 +2,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-evenly;">
+<div  align="center" >
   <h2>Hi 👋, I'm Alaeddine Rami</h2>
   <img height="200" src="snake/images/photo.jpg" />
 </div>
