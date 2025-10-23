@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 About Me<br><br>👋 Hi, I'm Alaeddine Rami, a Full-Stack Developer passionate about building modern and efficient web applications.<br>🎓 I graduated from YouCode (Safi), where I developed strong skills in Laravel, React, and JavaScript ecosystems.<br>💼 Currently, I’m focused on developing API-driven and secure backup management systems.<br>🚀 I love solving real-world problems through clean code, automation, and scalable architecture.<br>
+# console.log()
+💫 About Me<br><br>👋 Hi, I'm Alaeddine Rami, a Developer passionate about building modern and efficient web applications.<br>🎓 I graduated from YouCode (Safi), where I developed strong skills in Laravel, React, and JavaScript ecosystems.<br>💼 Currently, I’m focused on developing API-driven and secure backup management systems.<br>🚀 I love solving real-world problems through clean code, automation, and scalable architecture.<br>
 
 
 ## 🌐 Socials:
